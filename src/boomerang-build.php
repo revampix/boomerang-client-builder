@@ -27,7 +27,7 @@ $boomerangFilesPackedFileName = 'boomerandg-compiled.js';
 
 print "\033[92m" . "Building ..." . "\033[0m" . "\n";
 
-$boomerangJsLib = 'boomerang.js';
+$boomerangJsLib = 'boomerang-js/boomerang.js';
 $boomerangPlugins = [
     'boomerang-js/google-analytics-customised.js',
     'boomerang-js/guid-customised.js',
